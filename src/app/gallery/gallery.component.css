@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+/* font-family: 'Fredoka One', cursive; */
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Kite+One&display=swap');
+/* font-family: 'Kite One', sans-serif; */
+
+#pageOne{
+    font-family: 'Fredoka One', cursive; 
+    min-height: 100vh;
+    padding-top: 80px;
+}
+
+.box{
+    overflow: hidden;
+    height: 300px;
+    width: 250px;
+    border-radius: 20px;
+}
